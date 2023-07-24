@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="hintSearchMap">場所や建物名から店舗を探す</string>
+    <string name="doNotAllowLocation">位置情報が許可されていません</string>
+    <string name="google_maps_key">AIzaSyCum5Jn-eSCCMPUOkM8g2Ker2LQz-AVtE4</string>
+</resources>
